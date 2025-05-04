@@ -1,5 +1,5 @@
 [Defines]
-  PLATFORM_NAME                  = roo
+  PLATFORM_NAME                  = cattail
   PLATFORM_GUID                  = 54d47bf2-32f2-4532-9438-1b6971dc59c0
   PLATFORM_VERSION               = 0.1
   DSC_SPECIFICATION              = 0x00010019
